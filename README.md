@@ -4,3 +4,6 @@ This project has been developed with one goal: to practice with APIs in Swift pr
 I used the API from: [https://www.coinapi.io/].
 
 <img src="https://github.com/NickVanzo/ByteCoin/blob/main/ByteCoin.xcodeproj/EUR.png" width="250">
+
+
+It supports various currency exchanges rate, some of them: USD, EUR and many many others.
